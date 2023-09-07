@@ -1,0 +1,7 @@
+.personsWrapper {
+    display: flex;
+    width: 100%;
+    padding: 0 16px;
+    flex-direction: column;
+    gap: 14px;
+}
